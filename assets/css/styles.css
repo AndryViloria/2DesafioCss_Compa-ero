@@ -1,0 +1,59 @@
+body {
+    font-family: 'Libre Franklin', sans-serif;
+}
+header {
+    background-color: black;
+    background-image: url(../img/banner-pt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    color: white;
+    height: 300px;
+    padding: 50px;
+}
+
+h1 { 
+    margin: 0px;
+    font-size: 50px;
+    color: darkslategray;
+}
+h1 span {
+    font-weight: 500;
+    color: orange;
+}
+
+h2 {
+    font-weight: 300;
+    color: darkslategray;
+}
+
+main {
+    margin: 50px;
+}
+h3 {
+    color: rgb(8, 8, 36);
+}
+h4 {
+    color: crimson;
+}
+.producto {
+    margin-left: 20%;
+    margin-top: 40px;
+}
+.producto img{
+    height: 300px;
+    width: 300px;
+}
+.producto-text {
+    width: 50%;
+    margin-left: 40px;
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 60px;;
+}
+footer {
+    padding: 20px;
+    background-color: crimson;
+    color: white;
+    text-align: center;
+}
