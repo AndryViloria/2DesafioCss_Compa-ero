@@ -1,3 +1,3 @@
 # 2DesafioCss
 Curso front-end Desafio latam 
-Desafio 1 - HTML CV
+Desafio 2 - Css Landing Page, Sections
